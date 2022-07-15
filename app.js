@@ -133,6 +133,7 @@ function showMenu(country)
 
 // Functions
 
+
 function showJapan()
 {   
   itemDOM.innerHTML=""
